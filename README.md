@@ -1,6 +1,6 @@
 # - Neural Networks: Brain Cancer Detection -
 
-Repository with implemented MLP, DNN and CNN models for the DataSet [Brain Tumor (MRI Scans)"](https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans)
+Repository with implemented MLP, DNN and CNN models for the DataSet [Brain Tumor (MRI Scans)](https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans)
 
 # Dependencies
 ## To run the codes you must have the following libraries installed:
