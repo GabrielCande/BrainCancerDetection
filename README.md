@@ -18,4 +18,5 @@ Repository with implemented MLP, DNN and CNN models for the DataSet [Brain Tumor
 
 ## Note:
 The libraries versions are the ones used when making the code.
+
 Python known supported version: 3.8.10
